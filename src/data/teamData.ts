@@ -33,7 +33,7 @@ export const teamMembers: TeamMember[] = [
   },
   {
     id: 'andres',
-    name: 'Andrés Camilo De La Ossa',
+    name: 'Christian Camilo Arango Osorio',
     role: 'Coordinador Centro de Educación Continua y Permanente',
     division: 'Equipo CECP',
     divisionSlug: 'equipo-cecp',
